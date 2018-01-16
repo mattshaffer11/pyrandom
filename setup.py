@@ -13,7 +13,7 @@ def read(filepath):
 
 setup(
     name='randpy',
-    version='0.1.0',
+    version='0.1.1',
     description='Tiny set of utilities to generate random data',
     long_description=read('README.rst'),
     url='https://github.com/mattshaffer11/randpy',
